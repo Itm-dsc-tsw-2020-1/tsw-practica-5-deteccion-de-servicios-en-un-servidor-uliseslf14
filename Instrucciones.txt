@@ -1,0 +1,4 @@
+La carpeta scripting contiene la aplicación php para mostrar los datos de los puertos obtenidos desde la BD
+xampp/htdocs/scripting/index.php
+
+datos.sql es el script para crear la BD
